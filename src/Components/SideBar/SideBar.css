@@ -1,0 +1,18 @@
+.sideNav {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 10vw; /* Set the width of the sidebar */
+    z-index: 1; /* Stay on top */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    text-align: left;
+}
+
+.homeLink {
+    font-size: 2em;
+
+}
+
+.sectionLink {
+    width: 100%;
+    color: black;
+
+}
