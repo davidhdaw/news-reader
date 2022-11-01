@@ -1,11 +1,18 @@
 import React from "react";
+import './StoryCard.css'
+import { Link } from "react-router-dom";
 
-const StoryCard = ({story}) => {
+const StoryCard = ({story, setDetailView, setDetailedStory}) => {
 
+const setDetail = () => {
+    setDetailView(true)
+    setDetailedStory(story)
+}
     return(
-        <div className="StoryCard">
-            <h2>{story.title}</h2>
-            <p>{story.abstract}</p>
+        <div className="storyCard">
+            <p className="byline">{story.byline}</p>
+            <h1 className="storyTitle" onClick={() => setDetail()}>{story.title}</h1>
+            <p className="subHead">{story.abstract}</p>
         </div>
     )
 }
