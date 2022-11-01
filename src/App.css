@@ -9,3 +9,7 @@
   font-size: 4rem;
   margin-block-end: -1rem;
 }
+
+.mainContent {
+  display: flex;
+}
