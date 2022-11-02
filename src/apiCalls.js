@@ -19,3 +19,14 @@ export const getSectionStories = async (section) => {
       return await response.json();
     }
   };
+
+  export const getSearchResults = async (search) => {
+    const response = await fetch(
+        `https://api.nytimes.com/svc/search/v2/articlesearch.json?q=${search}&api-key=gA6bGsqWRIIqrkLurNZV68Q7jt8HaRPt`
+    );
+    if (!response.ok) {
+      throw new Error(response.status);
+    } else {
+      return await response.json();
+    }
+  };

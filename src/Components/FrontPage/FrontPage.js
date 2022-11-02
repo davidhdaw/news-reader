@@ -7,8 +7,10 @@ import './FrontPage.css'
 
 const FrontPage = ({frontPage}) => {
     let {id} = useParams();
-
     let section = ''
+    const [topStories, setTopStories] = useState([])
+    const [detailView, setDetailView] = useState(false)
+    const [detailedStory, setDetailedStory] = useState({})
 
     if (frontPage === true) {
         section = 'Top Stories'
@@ -22,13 +24,11 @@ const FrontPage = ({frontPage}) => {
         section = sectionNameArray.join('')
     }
 
-    const [topStories, setTopStories] = useState([])
-    const [detailView, setDetailView] = useState(false)
-    const [detailedStory, setDetailedStory] = useState({})
-
     useEffect(() => {
+        setDetailView(false)
         if (frontPage === true) {
             getTopStories().then((data) => {
+
                 setTopStories(data.results)
                 console.log(topStories)
             })
@@ -42,8 +42,8 @@ const FrontPage = ({frontPage}) => {
 
     return(
         <div className="frontPage">
-        {detailView && <DetailView detailedStory={detailedStory} /> }
-        {!detailView && <h2>{section}</h2>}
+        {detailView && <DetailView detailedStory={detailedStory} setDetailView={setDetailView} /> }
+        {!detailView && <h1 className="sectionTitle">{section}</h1>}
         {!detailView && topStories.map((story) => (
             <StoryCard story={story} setDetailView={setDetailView} setDetailedStory={setDetailedStory} />
         ))}
