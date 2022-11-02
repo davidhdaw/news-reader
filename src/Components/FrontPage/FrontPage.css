@@ -4,3 +4,10 @@
     align-items: center;
     width: 80vw;
 }
+
+.sectionTitle {
+    font-family: 'ChomskyRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 3rem;
+}
