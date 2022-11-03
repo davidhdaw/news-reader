@@ -9,3 +9,14 @@
 .heroImage {
     width: 70vw
 }
+
+.closeButton {
+    border: none;
+}
+
+.buttonContainer {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+}

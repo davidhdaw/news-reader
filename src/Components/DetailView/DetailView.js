@@ -3,9 +3,16 @@ import './DetailView.css'
 
 const DetailView = ({detailedStory, setDetailView}) => {
 
+    const closeDetail = () => {
+        setDetailView(false)
+        localStorage.removeItem('detailStory')
+    }
+
     return(
         <div className="detailedView">
-            <button className="closeButton" onClick={() => setDetailView(false)}>X</button>
+            <div className="buttonContainer">
+                <button className="closeButton" onClick={() => closeDetail()}>X</button>
+            </div>            
             <h1 className="detailTitle">{detailedStory.title}</h1>
             <p className="byline">{detailedStory.byline}</p>
             <img className="heroImage" src={detailedStory.multimedia[0].url} alt={detailedStory.multimedia[0].caption} />

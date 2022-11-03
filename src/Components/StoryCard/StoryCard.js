@@ -7,6 +7,7 @@ const StoryCard = ({story, setDetailView, setDetailedStory}) => {
 const setDetail = () => {
     setDetailView(true)
     setDetailedStory(story)
+    localStorage.setItem('detailStory', story.uri)
 }
     return(
         <div className="storyCard">
