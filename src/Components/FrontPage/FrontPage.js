@@ -28,14 +28,21 @@ const FrontPage = ({frontPage}) => {
         setDetailView(false)
         if (frontPage === true) {
             getTopStories().then((data) => {
-
                 setTopStories(data.results)
-                console.log(topStories)
+                let storyFromStorage = data.results.find(story => story.uri === localStorage.detailStory)
+                if (storyFromStorage) {
+                    setDetailView(true)
+                    setDetailedStory(storyFromStorage)
+                }
             })
         } else {
             getSectionStories(id).then((data) => {
                 setTopStories(data.results)
-                console.log(topStories)
+                let storyFromStorage = data.results.find(story => story.uri === localStorage.detailStory)
+                if (storyFromStorage) {
+                    setDetailView(true)
+                    setDetailedStory(storyFromStorage)
+                }
             })
         }
     }, [id])
