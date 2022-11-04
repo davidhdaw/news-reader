@@ -57,7 +57,7 @@ const FrontPage = ({frontPage}) => {
     return(
         <div className="frontPage">
         {loading && <h2>Loading...</h2>}
-        {error && <p>Whoops. We can't seem to find the</p>}
+        {error && <p className="sectionError">Whoops. We can't seem to find the</p>}
         {detailView && <DetailView detailedStory={detailedStory} setDetailView={setDetailView} /> }
         {!detailView && !loading && <h1 className="sectionTitle">{section}</h1>}
         {error && <p>section</p>}
