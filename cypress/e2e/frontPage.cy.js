@@ -2,7 +2,7 @@ import TopStories from '../fixtures/TopStories.json'
 
 describe('Front Page', () => {
   beforeEach(() => {
-    cy.intercept('https://api.nytimes.com/svc/search/v2/articlesearch.json?q=The Internet&api-key=gA6bGsqWRIIqrkLurNZV68Q7jt8HaRPt', TopStories).wait(1000)
+    cy.intercept('https://api.nytimes.com/svc/topstories/v2/home.json?api-key=gA6bGsqWRIIqrkLurNZV68Q7jt8HaRPt', TopStories).wait(1000)
     cy.visit('localhost:3000/')
   })
   it('Has a masthead', () => {
@@ -13,7 +13,7 @@ describe('Front Page', () => {
   })
   //article card
   it('story cards from the pulled down data', () => {
-    cy.get('.storyCard').should('have.length', 38)
+    cy.get('.storyCard').should('have.length', 37)
   })
   it('Has a card for a story', () => {
     cy.get('.storyCard').first().contains("Workers Expect Fast Inflation")
@@ -22,7 +22,7 @@ describe('Front Page', () => {
   it('can open a story to see more details', () => {
     cy.get('.heroImage').should('not.exist')
     cy.get('.storyTitle').first().click()
-    cy.get('.heroImage').should('exist').wait(5000)
+    cy.get('.heroImage').should('exist')
   })
   it('can close the story', () => {
     cy.get('.closeButton').should('not.exist')
