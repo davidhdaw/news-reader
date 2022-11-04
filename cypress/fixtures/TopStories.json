@@ -1,0 +1,2261 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "section": "home",
+    "last_updated": "2022-11-04T09:59:12-04:00",
+    "num_results": 37,
+    "results": [
+        {
+            "section": "business",
+            "subsection": "economy",
+            "title": "Workers Expect Fast Inflation Next Year. Could That Make It a Reality? The answer is always no when a headline poses a question.",
+            "abstract": "The Federal Reserve chair is eyeing near-term inflation expectations, which might shape wages — and help keep prices rising rapidly.",
+            "url": "https://www.nytimes.com/2022/11/04/business/economy/federal-reserve-inflation-expectations.html",
+            "uri": "nyt://article/d728fa78-be2f-58e9-b1ef-286e58d9986d",
+            "byline": "By Jeanna Smialek",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T09:15:06-04:00",
+            "created_date": "2022-11-04T05:00:41-04:00",
+            "published_date": "2022-11-04T05:00:41-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Banking and Financial Institutions",
+                "Wages and Salaries",
+                "Labor and Jobs",
+                "United States Economy",
+                "Inflation (Economics)",
+                "Interest Rates"
+            ],
+            "org_facet": [
+                "Federal Reserve System"
+            ],
+            "per_facet": [
+                "Powell, Jerome H"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/business/04dc-fedlabor01/merlin_212275608_23066ac4-a71f-4835-996a-d353d4975c63-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Officials are worried that as Americans expect prices to rise rapidly, they will also ask for higher wages — the kind of behavior that could turn today’s price burst into a more intractable problem.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/business/04dc-fedlabor01/04dc-fedlabor01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Officials are worried that as Americans expect prices to rise rapidly, they will also ask for higher wages — the kind of behavior that could turn today’s price burst into a more intractable problem.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/business/04dc-fedlabor01/04dc-fedlabor01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Officials are worried that as Americans expect prices to rise rapidly, they will also ask for higher wages — the kind of behavior that could turn today’s price burst into a more intractable problem.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DBrvZE"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Investors liked what they saw in the jobs data.",
+            "abstract": "",
+            "url": "https://www.nytimes.com/live/2022/11/04/business/jobs-report-october-economy/markets-approach-the-end-of-a-rough-week-with-an-eye-on-hiring-data",
+            "uri": "nyt://article/11596462-9792-5193-9196-68c6c4b742d0",
+            "byline": "By Joe Rennison",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T09:41:56-04:00",
+            "created_date": "2022-11-04T05:32:57-04:00",
+            "published_date": "2022-11-04T05:32:57-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Stocks and Bonds",
+                "Hiring and Promotion"
+            ],
+            "org_facet": [
+                "Federal Reserve System"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": null,
+            "short_url": "https://nyti.ms/3Taa7AS"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Between Kanye and the Midterms, the Unsettling Stream of Antisemitism",
+            "abstract": "For American Jews, this fall has become increasingly worrisome. On Thursday alone, the F.B.I. warned of threats to New Jersey synagogues and the Nets suspended Kyrie Irving.",
+            "url": "https://www.nytimes.com/2022/11/04/us/kanye-antisemitism-midterms.html",
+            "uri": "nyt://article/200fc2f6-5ae5-573a-ac69-a2d477d1727d",
+            "byline": "By Michael Paulson and Ruth Graham",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T09:10:55-04:00",
+            "created_date": "2022-11-04T05:00:07-04:00",
+            "published_date": "2022-11-04T05:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Midterm Elections (2022)",
+                "Anti-Semitism",
+                "Jews and Judaism"
+            ],
+            "org_facet": [
+                "Anti-Defamation League",
+                "Brandeis University",
+                "Tree of Life (Pittsburgh, Pa, Synagogue)",
+                "Orthodox Union",
+                "Union for Reform Judaism"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/multimedia/00antisemitism-01-1-3a1e/00antisemitism-01-1-3a1e-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police stand outside Temple Beth-El synagogue in Jersey City, N.J., on Thursday. The FBI said it had received credible information about a “broad” threat to synagogues in the state.",
+                    "copyright": "Ted Shaffrey/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/multimedia/00antisemitism-01-1-3a1e/00antisemitism-01-1-3a1e-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police stand outside Temple Beth-El synagogue in Jersey City, N.J., on Thursday. The FBI said it had received credible information about a “broad” threat to synagogues in the state.",
+                    "copyright": "Ted Shaffrey/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/multimedia/00antisemitism-01-1-3a1e/00antisemitism-01-1-3a1e-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police stand outside Temple Beth-El synagogue in Jersey City, N.J., on Thursday. The FBI said it had received credible information about a “broad” threat to synagogues in the state.",
+                    "copyright": "Ted Shaffrey/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Wxmfio"
+        },
+        {
+            "section": "sports",
+            "subsection": "basketball",
+            "title": "Nets Suspend Kyrie Irving Indefinitely After Antisemitic Movie Post",
+            "abstract": "Irving posted a link to an antisemitic movie last week but had not apologized until hours after the Nets suspended him for at least five games.",
+            "url": "https://www.nytimes.com/2022/11/03/sports/basketball/kyrie-irving-apology-antisemitic-documentary.html",
+            "uri": "nyt://article/e13e9562-3484-5c3f-a9d7-8f0ad96fdcc5",
+            "byline": "By Tania Ganguli",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T00:28:06-04:00",
+            "created_date": "2022-11-03T18:28:29-04:00",
+            "published_date": "2022-11-03T18:28:29-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Anti-Semitism",
+                "Basketball",
+                "Discrimination",
+                "Social Media",
+                "Holocaust and the Nazi Era",
+                "Fines (Penalties)",
+                "Jews and Judaism",
+                "War Crimes, Genocide and Crimes Against Humanity",
+                "Indecency, Obscenity and Profanity",
+                "Homosexuality and Bisexuality"
+            ],
+            "org_facet": [
+                "Anti-Defamation League",
+                "Brooklyn Nets",
+                "National Basketball Assn"
+            ],
+            "per_facet": [
+                "Irving, Kyrie",
+                "Silver, Adam (1962- )",
+                "Tsai, Joseph C"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/sports/03nba-kyrie-statement-1/merlin_215815359_8d369c6d-24c7-43d6-b263-f2b9f232e320-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nets guard Kyrie Irving distanced himself from some of the false assertions made in an antisemitic movie he linked to on Twitter last week.",
+                    "copyright": "Jessie Alcheh/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/sports/03nba-kyrie-statement-1/merlin_215815359_8d369c6d-24c7-43d6-b263-f2b9f232e320-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nets guard Kyrie Irving distanced himself from some of the false assertions made in an antisemitic movie he linked to on Twitter last week.",
+                    "copyright": "Jessie Alcheh/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/sports/03nba-kyrie-statement-1/merlin_215815359_8d369c6d-24c7-43d6-b263-f2b9f232e320-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nets guard Kyrie Irving distanced himself from some of the false assertions made in an antisemitic movie he linked to on Twitter last week.",
+                    "copyright": "Jessie Alcheh/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Wud0PX"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "F.B.I. Warns of Threat to Synagogues in New Jersey",
+            "abstract": "Officials have urged congregations to take security precautions.",
+            "url": "https://www.nytimes.com/2022/11/03/nyregion/synagogues-new-jersey-threats.html",
+            "uri": "nyt://article/105eeb29-86c2-5d5b-ad98-452390cd7eeb",
+            "byline": "By Tracey Tully and Shlomo Schorr",
+            "item_type": "Article",
+            "updated_date": "2022-11-03T23:05:22-04:00",
+            "created_date": "2022-11-03T16:46:07-04:00",
+            "published_date": "2022-11-03T16:46:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Synagogues",
+                "Security and Warning Systems"
+            ],
+            "org_facet": [
+                "Federal Bureau of Investigation"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "New Jersey"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/nyregion/03synagogues-nj/03synagogues-nj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Doug Hood/Asbury Park Press, via Imagn"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/nyregion/03synagogues-nj/03synagogues-nj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Doug Hood/Asbury Park Press, via Imagn"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/nyregion/03synagogues-nj/03synagogues-nj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Doug Hood/Asbury Park Press, via Imagn"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FIMBbe"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Elon Musk Begins Layoffs at Twitter",
+            "abstract": "The social media company’s 7,500 employees have been bracing for job cuts since Mr. Musk took it over last week.",
+            "url": "https://www.nytimes.com/2022/11/03/technology/twitter-layoffs-elon-musk.html",
+            "uri": "nyt://article/e994b19e-77e9-5491-97c8-722c00703de4",
+            "byline": "By Kate Conger and Ryan Mac",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T09:32:14-04:00",
+            "created_date": "2022-11-03T20:26:13-04:00",
+            "published_date": "2022-11-03T20:26:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Layoffs and Job Reductions",
+                "Labor and Jobs",
+                "Computers and the Internet",
+                "Mergers, Acquisitions and Divestitures"
+            ],
+            "org_facet": [
+                "Twitter"
+            ],
+            "per_facet": [
+                "Musk, Elon"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/02/business/00twitter-layoffs-01/00twitter-layoffs-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Twitter’s headquarters in San Francisco. About half the company’s 7,500 workers appeared set to lose their jobs.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/02/business/00twitter-layoffs-01/00twitter-layoffs-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Twitter’s headquarters in San Francisco. About half the company’s 7,500 workers appeared set to lose their jobs.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/02/business/00twitter-layoffs-01/00twitter-layoffs-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Twitter’s headquarters in San Francisco. About half the company’s 7,500 workers appeared set to lose their jobs.",
+                    "copyright": "Jim Wilson/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DAGQts"
+        },
+        {
+            "section": "business",
+            "subsection": "dealbook",
+            "title": "The Ax Falls for Twitter Employees",
+            "abstract": "Employees of the social network will learn via email if they are out of a job — or if they will continue to work for Elon Musk.",
+            "url": "https://www.nytimes.com/2022/11/04/business/dealbook/twitter-layoffs-elon-musk.html",
+            "uri": "nyt://article/7272d522-234b-5427-a1ca-fc97c6da3817",
+            "byline": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Stephen Gandel, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T07:52:55-04:00",
+            "created_date": "2022-11-04T07:52:55-04:00",
+            "published_date": "2022-11-04T07:52:55-04:00",
+            "material_type_facet": "",
+            "kicker": "DealBook Newsletter",
+            "des_facet": [
+                "Social Media",
+                "Labor and Jobs"
+            ],
+            "org_facet": [
+                "Albertsons Inc",
+                "Cerberus Capital Management",
+                "Denver Broncos",
+                "Washington Commanders",
+                "Twitter",
+                "National Football League"
+            ],
+            "per_facet": [
+                "Bezos, Jeffrey P",
+                "Jassy, Andrew R",
+                "Rubin, Michael G",
+                "Warren, Elizabeth"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/multimedia/04DB-Twitter-1-9eb7/04DB-Twitter-1-9eb7-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mostly in the dark.",
+                    "copyright": "Noah Berger/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/multimedia/04DB-Twitter-1-9eb7/04DB-Twitter-1-9eb7-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mostly in the dark.",
+                    "copyright": "Noah Berger/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/multimedia/04DB-Twitter-1-9eb7/04DB-Twitter-1-9eb7-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mostly in the dark.",
+                    "copyright": "Noah Berger/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3zIvORJ"
+        },
+        {
+            "section": "podcasts",
+            "subsection": "",
+            "title": "Life Under Musk: Two Twitter Employees Speak Out",
+            "abstract": "A radical shake-up is underway at the social media company.",
+            "url": "https://www.nytimes.com/2022/11/04/podcasts/life-under-musk-two-twitter-employees-speak-out.html",
+            "uri": "nyt://article/42a8320a-efa2-508e-bf05-3da1d70efab2",
+            "byline": "By Kevin Roose, Casey Newton, Davis Land, Paula Szuchman, Corey Schreppel, Dan Powell, Marion Lozano and Elisheba Ittoop",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T06:14:06-04:00",
+            "created_date": "2022-11-04T05:00:18-04:00",
+            "published_date": "2022-11-04T05:00:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Science and Technology"
+            ],
+            "org_facet": [
+                "Twitter"
+            ],
+            "per_facet": [
+                "Musk, Elon"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/podcasts/04HF-twitter-hq-audio-app/04HF-twitter-hq-audio-app-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo Illustration: The New York Times; Photo: Cayce Clifford for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/podcasts/04HF-twitter-hq-audio-app/04HF-twitter-hq-audio-app-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo Illustration: The New York Times; Photo: Cayce Clifford for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/podcasts/04HF-twitter-hq-audio-app/04HF-twitter-hq-audio-app-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo Illustration: The New York Times; Photo: Cayce Clifford for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DBZtNz"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Wisconsin Republicans Stand on the Verge of Total, Veto-Proof Power",
+            "abstract": "In a 50-50 battleground state, Republicans are close to capturing supermajorities in the State Legislature that would render the Democratic governor irrelevant even if he wins re-election.",
+            "url": "https://www.nytimes.com/2022/11/04/us/politics/wisconsin-voting-republicans-supermajorities.html",
+            "uri": "nyt://article/a5759196-27aa-5fed-991f-7b605f140eca",
+            "byline": "By Reid J. Epstein",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T09:13:15-04:00",
+            "created_date": "2022-11-04T05:00:44-04:00",
+            "published_date": "2022-11-04T05:00:44-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Elections, State Legislature",
+                "State Legislatures",
+                "Elections, Governors",
+                "Project Democracy",
+                "Midterm Elections (2022)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Evers, Tony (1951- )",
+                "Michels, Tim (1962- )"
+            ],
+            "geo_facet": [
+                "Wisconsin",
+                "Superior (Wis)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/multimedia/04pol-wisconsin-1-a09a/04pol-wisconsin-1-a09a-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John Adams, a Democratic candidate for the State Assembly in northwestern Wisconsin, putting up one of his signs. He and other Democrats in the rural area, long a bright spot for the party, are on the defensive this year.",
+                    "copyright": "Tim Gruber for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/multimedia/04pol-wisconsin-1-a09a/04pol-wisconsin-1-a09a-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John Adams, a Democratic candidate for the State Assembly in northwestern Wisconsin, putting up one of his signs. He and other Democrats in the rural area, long a bright spot for the party, are on the defensive this year.",
+                    "copyright": "Tim Gruber for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/multimedia/04pol-wisconsin-1-a09a/04pol-wisconsin-1-a09a-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "John Adams, a Democratic candidate for the State Assembly in northwestern Wisconsin, putting up one of his signs. He and other Democrats in the rural area, long a bright spot for the party, are on the defensive this year.",
+                    "copyright": "Tim Gruber for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fue1qF"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "‘We’re Afraid’: Town That Inspired Debunked Voter Fraud Film Braces for Election Day",
+            "abstract": "San Luis, Ariz., a small farming outpost on the border, played a key role in the making of the movie “2,000 Mules.” Now some residents are scared to vote.",
+            "url": "https://www.nytimes.com/2022/11/04/us/arizona-voter-fraud-san-luis.html",
+            "uri": "nyt://article/67d3dc45-3aa2-5a08-bd01-560d40106303",
+            "byline": "By Jack Healy and Alexandra Berzon",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T05:00:47-04:00",
+            "created_date": "2022-11-04T05:00:47-04:00",
+            "published_date": "2022-11-04T05:00:47-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Voter Fraud (Election Fraud)",
+                "Midterm Elections (2022)",
+                "Rumors and Misinformation"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Arizona",
+                "San Luis (Ariz)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/us/00nat-az-vote/merlin_215845929_df12773a-259c-4e81-93ae-90e93ef51c17-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1333,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Farmworkers weeded a lettuce field at sunrise in San Luis, Ariz., on Monday.",
+                    "copyright": "Caitlin O'Hara for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/us/00nat-az-vote/merlin_215845929_df12773a-259c-4e81-93ae-90e93ef51c17-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Farmworkers weeded a lettuce field at sunrise in San Luis, Ariz., on Monday.",
+                    "copyright": "Caitlin O'Hara for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/us/00nat-az-vote/00nat-az-vote-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Farmworkers weeded a lettuce field at sunrise in San Luis, Ariz., on Monday.",
+                    "copyright": "Caitlin O'Hara for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fzXQbk"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "Los Angeles Pedestrians Look Forward to Relaxed Jaywalking Law",
+            "abstract": "“I’m smart enough to know if cars are coming,” said one walker who is glad the old law will come off the books on Jan. 1.",
+            "url": "https://www.nytimes.com/2022/11/03/style/los-angeles-jaywalking-law.html",
+            "uri": "nyt://article/b4d3423f-52e6-5f09-8d15-d7de227f3b0e",
+            "byline": "By Will Higginbotham",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T09:14:10-04:00",
+            "created_date": "2022-11-03T03:00:09-04:00",
+            "published_date": "2022-11-03T03:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Jaywalking",
+                "Traffic Accidents and Safety",
+                "Law and Legislation",
+                "Fines (Penalties)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Los Angeles (Calif)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/fashion/03JAYWALKING-LOSANGELES-TOP-B/merlin_215070039_d55f8764-8240-4dc5-90bc-60b74fab3e44-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Two men cross against the light in downtown Los Angeles.",
+                    "copyright": "Michelle Groskopf for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/fashion/03JAYWALKING-LOSANGELES-TOP-B/03JAYWALKING-LOSANGELES-TOP-B-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Two men cross against the light in downtown Los Angeles.",
+                    "copyright": "Michelle Groskopf for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/fashion/03JAYWALKING-LOSANGELES-TOP-B/03JAYWALKING-LOSANGELES-TOP-B-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Two men cross against the light in downtown Los Angeles.",
+                    "copyright": "Michelle Groskopf for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ftJOId"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "‘I’m Afraid for My Future’: Proposed Laws Threaten Gay Life in Russia",
+            "abstract": "The laws, all but assured of enactment, would intensify a crackdown on L.G.B.T.Q. freedom in Russia, which Vladimir V. Putin has cast as a corrosive Western influence.",
+            "url": "https://www.nytimes.com/2022/11/04/world/europe/russia-lgbt-gays.html",
+            "uri": "nyt://article/18aa8bf0-679a-5350-98e2-446c97e6b6b5",
+            "byline": "By Valerie Hopkins, Valeriya Safronova and Nanna Heitmann",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T04:21:41-04:00",
+            "created_date": "2022-11-04T00:01:15-04:00",
+            "published_date": "2022-11-04T00:01:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Homosexuality and Bisexuality",
+                "Discrimination",
+                "Transgender and Transsexuals",
+                "Russian Invasion of Ukraine (2022)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Moscow (Russia)",
+                "Russia",
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/02/world/02russia-lgbt1-promo/merlin_215784069_5cab75b8-1735-4065-ab2e-0754ae117f2a-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A drag show at a gay club in Moscow.",
+                    "copyright": "Nanna Heitmann for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/02/world/02russia-lgbt1-promo/02russia-lgbt1-promo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A drag show at a gay club in Moscow.",
+                    "copyright": "Nanna Heitmann for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/02/world/02russia-lgbt1-promo/02russia-lgbt1-promo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A drag show at a gay club in Moscow.",
+                    "copyright": "Nanna Heitmann for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DZGi1u"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Worries Grow That TikTok Is New Home for Manipulated Video and Photos",
+            "abstract": "Misleading edits, fake news stories and deepfake images of politicians are starting to warp reality on the popular video platform.",
+            "url": "https://www.nytimes.com/2022/11/04/technology/tiktok-deepfakes-disinformation.html",
+            "uri": "nyt://article/3d619282-6257-5538-887b-2b279ef48631",
+            "byline": "By Tiffany Hsu",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T09:16:50-04:00",
+            "created_date": "2022-11-04T03:00:09-04:00",
+            "published_date": "2022-11-04T03:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Computers and the Internet",
+                "Video Recordings, Downloads and Streaming",
+                "Rumors and Misinformation"
+            ],
+            "org_facet": [
+                "MIT Center for Art, Science & Technology (CAST)",
+                "TikTok (ByteDance)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/business/03tiktok-deepfakes-02/merlin_203368617_33c84079-1f91-4a11-9174-622ad7f121cb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Manipulated media is spreading before the midterms on TikTok, whose policies prohibit digital forgeries “that mislead users by distorting the truth.”",
+                    "copyright": "Kiichiro Sato/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/business/03tiktok-deepfakes-02/merlin_203368617_33c84079-1f91-4a11-9174-622ad7f121cb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Manipulated media is spreading before the midterms on TikTok, whose policies prohibit digital forgeries “that mislead users by distorting the truth.”",
+                    "copyright": "Kiichiro Sato/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/business/03tiktok-deepfakes-02/TIKTOK-DISINFO-07-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Manipulated media is spreading before the midterms on TikTok, whose policies prohibit digital forgeries “that mislead users by distorting the truth.”",
+                    "copyright": "Kiichiro Sato/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3zJ7rn7"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "In Bid to Show It Is Open, Hong Kong Bends Covid Rules … for Some",
+            "abstract": "Three splashy events this week were meant to prove that the former British colony was still “Asia’s World City.” But Covid exemptions were provided for visitors from overseas, especially the wealthy ones.",
+            "url": "https://www.nytimes.com/2022/11/04/business/hong-kong-covid-rules.html",
+            "uri": "nyt://article/58b22d46-9bca-5fba-b2ec-b98f08008003",
+            "byline": "By Alexandra Stevenson and Tiffany May",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T09:52:32-04:00",
+            "created_date": "2022-11-04T05:18:20-04:00",
+            "published_date": "2022-11-04T05:18:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Banking and Financial Institutions",
+                "Quarantines",
+                "Rugby",
+                "Travel and Vacations"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Lee, John (1957- )"
+            ],
+            "geo_facet": [
+                "Hong Kong",
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/business/00hongkong-virus-1/00hongkong-virus-1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Louise Delmotte for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/business/00hongkong-virus-1/00hongkong-virus-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Louise Delmotte for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/business/00hongkong-virus-1/00hongkong-virus-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Louise Delmotte for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3zE95pZ"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Study Shows New Booster Improves Protection for Older People, Pfizer Says",
+            "abstract": "Federal officials are hoping that the encouraging results will spur more Americans to get an updated booster before a feared surge in coronavirus cases this winter.",
+            "url": "https://www.nytimes.com/2022/11/04/us/politics/covid-booster-pfizer.html",
+            "uri": "nyt://article/d337f79c-aa33-53b4-b350-f16cf60bbcd0",
+            "byline": "By Sharon LaFraniere",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T07:29:04-04:00",
+            "created_date": "2022-11-04T07:29:04-04:00",
+            "published_date": "2022-11-04T07:29:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Drugs (Pharmaceuticals)",
+                "United States Politics and Government",
+                "Research"
+            ],
+            "org_facet": [
+                "Pfizer Inc",
+                "BioNTech SE"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/multimedia/04dc-booster-01-1-8d3a/04dc-booster-01-1-8d3a-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Only about 8 percent of Americans age 5 and up have received the new boosters from Pfizer and Moderna since they were rolled out in September.",
+                    "copyright": "Hannah Beier/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/multimedia/04dc-booster-01-1-8d3a/04dc-booster-01-1-8d3a-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Only about 8 percent of Americans age 5 and up have received the new boosters from Pfizer and Moderna since they were rolled out in September.",
+                    "copyright": "Hannah Beier/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/multimedia/04dc-booster-01-1-8d3a/04dc-booster-01-1-8d3a-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Only about 8 percent of Americans age 5 and up have received the new boosters from Pfizer and Moderna since they were rolled out in September.",
+                    "copyright": "Hannah Beier/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3zL2UQO"
+        },
+        {
+            "section": "well",
+            "subsection": "",
+            "title": "New Covid Variants Are Circulating. Here’s What to Know.",
+            "abstract": "The “nightmare variant” is not as bad as it sounds.",
+            "url": "https://www.nytimes.com/article/covid-variants-nightmare.html",
+            "uri": "nyt://article/704dd181-77c8-55c2-97e7-984a50b5a4b1",
+            "byline": "By Knvul Sheikh",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T05:00:38-04:00",
+            "created_date": "2022-11-04T05:00:38-04:00",
+            "published_date": "2022-11-04T05:00:38-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "States (US)",
+                "Drugs (Pharmaceuticals)",
+                "Vaccination and Immunization",
+                "Immune System",
+                "Coronavirus Omicron Variant",
+                "Content Type: Service",
+                "Antibodies",
+                "Viruses"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/well/04WELL-NIGHTMARE-VARIANT/04WELL-NIGHTMARE-VARIANT-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/well/04WELL-NIGHTMARE-VARIANT/04WELL-NIGHTMARE-VARIANT-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/well/04WELL-NIGHTMARE-VARIANT/04WELL-NIGHTMARE-VARIANT-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DEiUoP"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "The Housing Market Is Worse Than You Think",
+            "abstract": "Buyers, sellers and renters are in for more twists and turns, as soaring mortgage rates and stubborn inflation signal belt tightening ahead.",
+            "url": "https://www.nytimes.com/2022/11/04/realestate/housing-market-interest-rates.html",
+            "uri": "nyt://article/2d7883e2-0c44-59e7-8ef4-ef660363f579",
+            "byline": "By Stefanos Chen",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T08:45:19-04:00",
+            "created_date": "2022-11-04T05:00:42-04:00",
+            "published_date": "2022-11-04T05:00:42-04:00",
+            "material_type_facet": "",
+            "kicker": "Market Report",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Interest Rates",
+                "Mortgages",
+                "Prices (Fares, Fees and Rates)",
+                "Inflation (Economics)",
+                "Renting and Leasing (Real Estate)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/06/realestate/04Market_Main_illo/04Market_Main_illo-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1092,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mariaelena Caputi"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/06/realestate/04Market_Main_illo/04Market_Main_illo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mariaelena Caputi"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/06/realestate/04Market_Main_illo/04Market_Main_illo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mariaelena Caputi"
+                }
+            ],
+            "short_url": "https://nyti.ms/3WyBUOc"
+        },
+        {
+            "section": "dining",
+            "subsection": "",
+            "title": "Can A.I. Write Recipes Better Than Humans? We Put It to the Ultimate Test.",
+            "abstract": "Researchers are using artificial intelligence to create recipes, complete with appetizing photos and back stories. But Thanksgiving poses a challenge.",
+            "url": "https://www.nytimes.com/2022/11/04/dining/ai-thanksgiving-menu.html",
+            "uri": "nyt://article/e9d64f9e-1f88-5661-93b2-aded62932eb7",
+            "byline": "By Priya Krishna and Cade Metz",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T05:00:47-04:00",
+            "created_date": "2022-11-04T05:00:47-04:00",
+            "published_date": "2022-11-04T05:00:47-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Recipes",
+                "Artificial Intelligence",
+                "Cooking and Cookbooks",
+                "Thanksgiving Day",
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "OpenAI Labs"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/09/dining/09ai-thanksgiving1/04ai-thanksgiving1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Can artificial intelligence create a better Thanksgiving menu than people can? A reporter, Priya Krishna, put that to the test.",
+                    "copyright": "Timothy O'Connell for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/09/dining/09ai-thanksgiving1/04ai-thanksgiving1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Can artificial intelligence create a better Thanksgiving menu than people can? A reporter, Priya Krishna, put that to the test.",
+                    "copyright": "Timothy O'Connell for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/09/dining/09ai-thanksgiving1/04ai-thanksgiving1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Can artificial intelligence create a better Thanksgiving menu than people can? A reporter, Priya Krishna, put that to the test.",
+                    "copyright": "Timothy O'Connell for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DA0i9x"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "We Asked 12 Arizona voters What They Thought About Kari Lake and Joe Biden",
+            "abstract": "12 Arizona Voters discuss the midterm elections for governor and senator.",
+            "url": "https://www.nytimes.com/interactive/2022/11/04/opinion/focus-group-arizona-voters-republicans-democrats.html",
+            "uri": "nyt://interactive/acc55328-9ba8-572e-a569-85871ffbaa1f",
+            "byline": "By Patrick Healy and Adrian J. Rivera",
+            "item_type": "Interactive",
+            "updated_date": "2022-11-04T08:19:41-04:00",
+            "created_date": "2022-11-04T01:00:01-04:00",
+            "published_date": "2022-11-04T01:00:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Midterm Elections (2022)",
+                "Polls and Public Opinion"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kelly, Mark E (1964- )",
+                "Masters, Blake (1986- )",
+                "Lake, Kari A"
+            ],
+            "geo_facet": [
+                "Arizona"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/opinion/04focusgroup/04focusgroup-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1875,
+                    "width": 1875,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustrations by Lucinda Rogers"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/opinion/04focusgroup/04focusgroup-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustrations by Lucinda Rogers"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/opinion/04focusgroup/04focusgroup-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustrations by Lucinda Rogers"
+                }
+            ],
+            "short_url": "https://nyti.ms/3zJoDbR"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "The Israel We Knew Is Gone",
+            "abstract": "Bibi Netanyahu is poised to form a government with allies once seen as completely outside the norms and boundaries of Israeli politics.",
+            "url": "https://www.nytimes.com/2022/11/04/opinion/israel-netanyahu.html",
+            "uri": "nyt://article/5a4b179e-db3f-538f-b03f-004f44fe853b",
+            "byline": "By Thomas L. Friedman",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T01:39:51-04:00",
+            "created_date": "2022-11-04T01:00:07-04:00",
+            "published_date": "2022-11-04T01:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "Thomas L. Friedman",
+            "des_facet": [
+                "Elections",
+                "Palestinians",
+                "Right-Wing Extremism and Alt-Right",
+                "Jews and Judaism",
+                "Politics and Government",
+                "Arabs"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Netanyahu, Benjamin"
+            ],
+            "geo_facet": [
+                "Israel",
+                "West Bank"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/opinion/04friedman1/merlin_215490588_78b52968-54a4-4b1c-ab73-b571eed835d1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Amit Elkayam for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/opinion/04friedman1/04friedman1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Amit Elkayam for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/opinion/04friedman1/04friedman1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Amit Elkayam for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FJCK4H"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "The Attack on Paul Pelosi Has Unmasked the G.O.P.",
+            "abstract": "Even by the degraded standards of 2022, it has been shocking to watch conservative media personalities and politicians respond to the brutal attack on Paul Pelosi.",
+            "url": "https://www.nytimes.com/2022/11/04/opinion/paul-pelosi-youngkin-lake.html",
+            "uri": "nyt://article/a1345613-8a33-5e56-a9ea-34cf58e5cc0f",
+            "byline": "By Jamelle Bouie",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T05:00:14-04:00",
+            "created_date": "2022-11-04T05:00:14-04:00",
+            "published_date": "2022-11-04T05:00:14-04:00",
+            "material_type_facet": "",
+            "kicker": "Jamelle Bouie",
+            "des_facet": [
+                "Midterm Elections (2022)",
+                "United States Politics and Government",
+                "Conservatism (US Politics)",
+                "Elections",
+                "Masks (Costume)",
+                "Assaults"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Lake, Kari A",
+                "Trump, Donald J Jr",
+                "Higgins, Clay (1961- )",
+                "Pelosi, Paul",
+                "Youngkin, Glenn A",
+                "Orwell, George"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/opinion/04bouie-1/merlin_182259726_74167acd-0b4c-4414-9fbb-9e56ce339b09-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In costume for Jan. 6.",
+                    "copyright": "Mark Peterson/Redux for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/opinion/04bouie-1/merlin_182259726_74167acd-0b4c-4414-9fbb-9e56ce339b09-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In costume for Jan. 6.",
+                    "copyright": "Mark Peterson/Redux for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/opinion/04bouie-1/04bouie-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In costume for Jan. 6.",
+                    "copyright": "Mark Peterson/Redux for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3E03pJj"
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Doug Mastriano and the Potential of Amish Voters in Pennsylvania",
+            "abstract": "Will the Amish vote in Pennsylvania this year and in 2024? There’s a lot riding on it, electorally and culturally.",
+            "url": "https://www.nytimes.com/2022/11/04/opinion/amish-mennonites-pennsylvania-mastriano.html",
+            "uri": "nyt://article/b892b8a0-9c6f-542d-9bd0-e256259dfd1a",
+            "byline": "By Bonnie Kristian",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T05:00:15-04:00",
+            "created_date": "2022-11-04T05:00:15-04:00",
+            "published_date": "2022-11-04T05:00:15-04:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "Midterm Elections (2022)",
+                "Mennonite Churches",
+                "Amish"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Mastriano, Doug"
+            ],
+            "geo_facet": [
+                "Pennsylvania"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/02/opinion/02kristian-image/02kristian-image-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Peterson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/02/opinion/02kristian-image/02kristian-image-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Peterson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/02/opinion/02kristian-image/merlin_212530809_afb810fd-eae2-4d08-9727-2676179bbb3b-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Peterson for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FHvkiD"
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "A Poll Reversal",
+            "abstract": "Republicans have swiftly gained ground near the end of midterm elections polling.",
+            "url": "https://www.nytimes.com/2022/11/04/briefing/republican-polls-midterms.html",
+            "uri": "nyt://article/024165ea-9051-5826-b132-f5c48f3a6eca",
+            "byline": "By Nate Cohn",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T06:43:23-04:00",
+            "created_date": "2022-11-04T06:43:23-04:00",
+            "published_date": "2022-11-04T06:43:23-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "internal-storyline-no",
+                "Polls and Public Opinion",
+                "Midterm Elections (2022)",
+                "Elections",
+                "Politics and Government",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/multimedia/04themorning-promo/04themorning-lead-1-17b9-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1639,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Early voting in Manhattan last week.",
+                    "copyright": "Timothy Mulcare for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/multimedia/04themorning-promo/04themorning-lead-1-17b9-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Early voting in Manhattan last week.",
+                    "copyright": "Timothy Mulcare for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/multimedia/04themorning-promo/04themorning-lead-1-17b9-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Early voting in Manhattan last week.",
+                    "copyright": "Timothy Mulcare for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3WwO0HB"
+        },
+        {
+            "section": "podcasts",
+            "subsection": "the-daily",
+            "title": "Can Campaigning on Abortion Rescue the Democrats?",
+            "abstract": "Anger about the overturning of Roe v. Wade has given the party hope of preventing a total blowout at the midterms.",
+            "url": "https://www.nytimes.com/2022/11/04/podcasts/the-daily/abortion-democrats-midterms-michigan.html",
+            "uri": "nyt://article/491dadc5-f0aa-53c1-aa18-30332e4bb614",
+            "byline": "By Sabrina Tavernise, Jessica Cheung, Lisa Chow, Paige Cowett, Dan Powell, Marion Lozano and Chris Wood",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T06:34:21-04:00",
+            "created_date": "2022-11-04T06:00:12-04:00",
+            "published_date": "2022-11-04T06:00:12-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Midterm Elections (2022)",
+                "Abortion",
+                "United States Politics and Government",
+                "audio-neutral-informative"
+            ],
+            "org_facet": [
+                "Democratic Party"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Michigan",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/podcasts/04daily-1/04DAILY-mich-abortion-audio-app-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A demonstrator in Detroit supporting a ballot measure that would bolster abortion protections in Michigan.",
+                    "copyright": "Emily Elconin for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/podcasts/04daily-1/04DAILY-mich-abortion-audio-app-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A demonstrator in Detroit supporting a ballot measure that would bolster abortion protections in Michigan.",
+                    "copyright": "Emily Elconin for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/podcasts/04daily-1/04DAILY-mich-abortion-audio-app-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A demonstrator in Detroit supporting a ballot measure that would bolster abortion protections in Michigan.",
+                    "copyright": "Emily Elconin for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3T6l8mS"
+        },
+        {
+            "section": "podcasts",
+            "subsection": "",
+            "title": "The Internet Still Thinks I’m Pregnant",
+            "abstract": "When Amy Pittman had a miscarriage, she grieved her loss — and tried to move on. But the internet wouldn’t let her.",
+            "url": "https://www.nytimes.com/2022/11/02/podcasts/modern-love-internet-miscarriage.html",
+            "uri": "nyt://article/fb7068ac-9b44-5926-97a6-9371837bf6a9",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2022-11-03T05:19:44-04:00",
+            "created_date": "2022-11-02T16:00:07-04:00",
+            "published_date": "2022-11-02T16:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Love (Emotion)",
+                "Dating and Relationships",
+                "Miscarriages",
+                "Computers and the Internet",
+                "Pregnancy and Childbirth"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2016/09/04/fashion/02Modernlove-podcast-miscarriage-image/04LOVE-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1296,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/09/04/fashion/02Modernlove-podcast-miscarriage-image/04LOVE-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/09/04/fashion/02Modernlove-podcast-miscarriage-image/04LOVE-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DAsZDz"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "There’s a Crucial Climate Summit in Egypt. Our Event Tells You What to Expect.",
+            "abstract": "Hear from Boris Johnson, the former British prime minister, and other global leaders for a livestream of The New York Times Climate Forward event during COP27 from Egypt.",
+            "url": "https://www.nytimes.com/article/climate-event.html",
+            "uri": "nyt://article/17144da0-d432-5bce-8719-e9b58810b2e6",
+            "byline": "By The New York Times",
+            "item_type": "Article",
+            "updated_date": "2022-11-03T16:00:37-04:00",
+            "created_date": "2022-09-02T10:50:31-04:00",
+            "published_date": "2022-09-02T10:50:31-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "internal-open-access"
+            ],
+            "org_facet": [
+                "United Nations",
+                "World Trade Organization"
+            ],
+            "per_facet": [
+                "Johnson, Boris",
+                "Okonjo-Iweala, Ngozi",
+                "Sturgeon, Nicola"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/admin/03SharmBJohnson/03SharmBJohnson-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1385,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/admin/03SharmBJohnson/03SharmBJohnson-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/admin/03SharmBJohnson/03SharmBJohnson-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3TO63rI"
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "As Other Global Crises Collide, Nations Converge to Address Climate Change",
+            "abstract": "The United States will try to reassert global leadership at global talks in Egypt.",
+            "url": "https://www.nytimes.com/2022/11/04/climate/united-states-climate-summit.html",
+            "uri": "nyt://article/81e700a0-b58b-5c14-b0f6-a7485e374907",
+            "byline": "By Lisa Friedman",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T09:18:37-04:00",
+            "created_date": "2022-11-04T05:00:44-04:00",
+            "published_date": "2022-11-04T05:00:44-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "United States International Relations",
+                "United Nations Framework Convention on Climate Change",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J",
+                "Xi Jinping"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/climate/03cli-USCOP271/03cli-USCOP271-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "COP27, the next United Nations climate summit, begins in Sharm el Sheikh, Egypt, on Sunday.",
+                    "copyright": "Sayed Sheasha/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/climate/03cli-USCOP271/03cli-USCOP271-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "COP27, the next United Nations climate summit, begins in Sharm el Sheikh, Egypt, on Sunday.",
+                    "copyright": "Sayed Sheasha/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/climate/03cli-USCOP271/03cli-USCOP271-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "COP27, the next United Nations climate summit, begins in Sharm el Sheikh, Egypt, on Sunday.",
+                    "copyright": "Sayed Sheasha/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FO8sOm"
+        },
+        {
+            "section": "sports",
+            "subsection": "baseball",
+            "title": "Astros on the Verge of a Dynasty After Game 5 Win Over Phillies",
+            "abstract": "Justin Verlander finally got his first World Series victory, Jeremy Peña carried the offense and Houston has Philadelphia on the ropes as it heads home for Game 6.",
+            "url": "https://www.nytimes.com/2022/11/04/sports/baseball/astros-world-series-phillies-game-5.html",
+            "uri": "nyt://article/37aab6f3-7f6b-5f63-90c1-f39a4dc650dd",
+            "byline": "By James Wagner and Doug Mills",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T09:21:58-04:00",
+            "created_date": "2022-11-04T00:03:53-04:00",
+            "published_date": "2022-11-04T00:03:53-04:00",
+            "material_type_facet": "",
+            "kicker": "Astros 3, Phillies 2 | Houston Leads World Series, 3-2",
+            "des_facet": [
+                "Baseball",
+                "World Series"
+            ],
+            "org_facet": [
+                "Houston Astros",
+                "Philadelphia Phillies"
+            ],
+            "per_facet": [
+                "Verlander, Justin",
+                "Pena, Jeremy (1997- )",
+                "Altuve, Jose",
+                "Syndergaard, Noah"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/reader-center/03mlb-worldseries-g5-v1/03mlb-worldseries-g5-v1-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Justin Verlander came into the game with an 0-6 lifetime record in the World Series. With five solid innings on Thursday, he secured his first win in the Fall Classic.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/reader-center/03mlb-worldseries-g5-v1/03mlb-worldseries-g5-v1-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Justin Verlander came into the game with an 0-6 lifetime record in the World Series. With five solid innings on Thursday, he secured his first win in the Fall Classic.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/03/reader-center/03mlb-worldseries-g5-v1/03mlb-worldseries-g5-v1-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Justin Verlander came into the game with an 0-6 lifetime record in the World Series. With five solid innings on Thursday, he secured his first win in the Fall Classic.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3fAYmps"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "As Dollar Strengthens, U.S. Students in Europe Feel the Benefits",
+            "abstract": "The pound and the euro are trading at decades-long lows against the dollar. For American students abroad, that has made weekend trips, dinners and theater tickets (somewhat) less of a splurge.",
+            "url": "https://www.nytimes.com/2022/11/03/world/europe/study-abroad-europe-students.html",
+            "uri": "nyt://article/1fee11ce-e45e-53ca-90e5-dd4ec236b1e6",
+            "byline": "By Jenny Gross",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T09:20:13-04:00",
+            "created_date": "2022-11-03T08:18:14-04:00",
+            "published_date": "2022-11-03T08:18:14-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Colleges and Universities",
+                "International Study and Teaching",
+                "Budget Travel",
+                "British Pound (Currency)",
+                "Wages and Salaries",
+                "Americans Abroad",
+                "Currency",
+                "Euro (Currency)"
+            ],
+            "org_facet": [
+                "King's College",
+                "London School of Economics",
+                "Oxford University"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Europe",
+                "Great Britain",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/06/multimedia/00xp-studyabroad1-1-e8fe/00xp-studyabroad1-1-e8fe-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Avery Scott, a junior at the University of Georgia, is currently studying at the University of Oxford in England, where her money has gone further because of the falling value of the British pound.",
+                    "copyright": "Mary Turner for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/06/multimedia/00xp-studyabroad1-1-e8fe/00xp-studyabroad1-1-e8fe-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Avery Scott, a junior at the University of Georgia, is currently studying at the University of Oxford in England, where her money has gone further because of the falling value of the British pound.",
+                    "copyright": "Mary Turner for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/06/multimedia/00xp-studyabroad1-1-e8fe/00xp-studyabroad1-1-e8fe-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Avery Scott, a junior at the University of Georgia, is currently studying at the University of Oxford in England, where her money has gone further because of the falling value of the British pound.",
+                    "copyright": "Mary Turner for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3UhZE85"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "Tent Shelter for Migrants an Unlikely Draw for Other Homeless Men",
+            "abstract": "The emergency shelter on Randalls Island constructed by the Adams administration was at first met with criticism. But some immigrants are praising the conditions there.",
+            "url": "https://www.nytimes.com/2022/11/04/nyregion/nyc-immigrants-tent-shelters-randalls-island.html",
+            "uri": "nyt://article/64c6be87-5b5e-5e9a-969c-a8fbc87836fd",
+            "byline": "By Kimiko de Freytas-Tamura",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T09:20:55-04:00",
+            "created_date": "2022-11-04T05:00:14-04:00",
+            "published_date": "2022-11-04T05:00:14-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Asylum, Right of",
+                "Immigration and Emigration"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Adams, Eric L"
+            ],
+            "geo_facet": [
+                "New York City",
+                "Bronx (NYC)",
+                "Pennsylvania",
+                "Venezuela",
+                "Senegal"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/nyregion/04randalls-island/04randalls-island-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mobile shower units outside an emergency relief center for migrants on Randalls Island.",
+                    "copyright": "David Dee Delgado for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/nyregion/04randalls-island/04randalls-island-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mobile shower units outside an emergency relief center for migrants on Randalls Island.",
+                    "copyright": "David Dee Delgado for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/nyregion/04randalls-island/04randalls-island-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mobile shower units outside an emergency relief center for migrants on Randalls Island.",
+                    "copyright": "David Dee Delgado for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Wt1Wm5"
+        },
+        {
+            "section": "well",
+            "subsection": "move",
+            "title": "A Beginner’s Guide to the Rowing Machine",
+            "abstract": "Fitness companies have caught on to the fact that these devices deliver an intense full-body workout.",
+            "url": "https://www.nytimes.com/2022/11/02/well/move/rowing-machine-workout-guide.html",
+            "uri": "nyt://article/fb2f4754-03c6-526d-8193-90ac49803052",
+            "byline": "By Dana G. Smith",
+            "item_type": "Article",
+            "updated_date": "2022-11-02T12:53:18-04:00",
+            "created_date": "2022-11-02T10:45:44-04:00",
+            "published_date": "2022-11-02T10:45:44-04:00",
+            "material_type_facet": "",
+            "kicker": "why not try",
+            "des_facet": [
+                "Exercise",
+                "Rowing",
+                "Content Type: Service",
+                "Health Clubs",
+                "Boats and Boating",
+                "Weight Lifting"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/08/multimedia/26WNT-ROWING-WORKOUT5-1-310a/26WNT-ROWING-WORKOUT5-1-310a-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Melissa Lukenbaugh for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/08/multimedia/26WNT-ROWING-WORKOUT5-1-310a/26WNT-ROWING-WORKOUT5-1-310a-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Melissa Lukenbaugh for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/08/multimedia/26WNT-ROWING-WORKOUT5-1-310a/26WNT-ROWING-WORKOUT5-1-310a-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Melissa Lukenbaugh for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3h5cMi0"
+        },
+        {
+            "section": "well",
+            "subsection": "move",
+            "title": "Can Exercise Strengthen Your Immunity?",
+            "abstract": "Recent research suggests that people who work out have stronger resistance to infectious diseases — including Covid — but experts say the findings need to be tested further.",
+            "url": "https://www.nytimes.com/2022/09/07/well/move/exercise-immunity-covid.html",
+            "uri": "nyt://article/e13be86c-5c7f-59a1-8673-f41b13f73ba3",
+            "byline": "By Knvul Sheikh",
+            "item_type": "Article",
+            "updated_date": "2022-09-20T09:06:23-04:00",
+            "created_date": "2022-09-07T12:28:44-04:00",
+            "published_date": "2022-09-07T12:28:44-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Exercise",
+                "Research",
+                "Weight",
+                "Vaccination and Immunization",
+                "Respiratory Diseases",
+                "Deaths (Fatalities)",
+                "Immune System",
+                "Content Type: Service",
+                "Muscles",
+                "Cold and Cold Spells"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/13/multimedia/01WELL-EXERCISE-IMMUNITY1/01WELL-EXERCISE-IMMUNITY1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Victor Moriyama for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/13/multimedia/01WELL-EXERCISE-IMMUNITY1/01WELL-EXERCISE-IMMUNITY1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Victor Moriyama for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/13/multimedia/01WELL-EXERCISE-IMMUNITY1/01WELL-EXERCISE-IMMUNITY1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Victor Moriyama for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3RunxYr"
+        },
+        {
+            "section": "well",
+            "subsection": "move",
+            "title": "Disc Golf Can Turn Your Walk Into a Workout",
+            "abstract": "This surprisingly fun sport changes a stroll in the park into an afternoon adventure with a flying piece of plastic.",
+            "url": "https://www.nytimes.com/2022/08/18/well/move/disc-golf.html",
+            "uri": "nyt://article/0ccbc304-1210-538a-8e00-6e5aa0966544",
+            "byline": "By Holly Burns",
+            "item_type": "Article",
+            "updated_date": "2022-08-18T05:00:27-04:00",
+            "created_date": "2022-08-18T05:00:27-04:00",
+            "published_date": "2022-08-18T05:00:27-04:00",
+            "material_type_facet": "",
+            "kicker": "Why not try",
+            "des_facet": [
+                "Exercise",
+                "Frisbees",
+                "Golf",
+                "Athletics and Sports",
+                "Hikes and Hiking"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/17/multimedia/17WNT-DISC-GOLF1/17WNT-DISC-GOLF1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Todd Korol for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/17/multimedia/17WNT-DISC-GOLF1/17WNT-DISC-GOLF1-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Todd Korol for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/17/multimedia/17WNT-DISC-GOLF1/17WNT-DISC-GOLF1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Todd Korol for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3A4Mx0V"
+        },
+        {
+            "section": "well",
+            "subsection": "move",
+            "title": "How Painful Should Your Workout Be?",
+            "abstract": "Every strenuous exercise involves some mixture of suffering and pleasure. The key to sticking with it is getting the balance right.",
+            "url": "https://www.nytimes.com/2022/09/30/well/move/how-hard-workout.html",
+            "uri": "nyt://article/1a14cea0-798b-590e-8b29-ead5b9ec99be",
+            "byline": "By Alex Hutchinson",
+            "item_type": "Article",
+            "updated_date": "2022-09-30T10:56:43-04:00",
+            "created_date": "2022-09-30T10:56:43-04:00",
+            "published_date": "2022-09-30T10:56:43-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Exercise",
+                "Research",
+                "Content Type: Service",
+                "Psychology and Psychologists",
+                "Marathon Running",
+                "Habits and Routines (Behavior)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/30/autossell/0928_burpee_final/0928_burpee_final-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Sean Dong"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/30/autossell/0928_burpee_final/0928_burpee_final-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Sean Dong"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/30/autossell/0928_burpee_final/0928_burpee_final-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Sean Dong"
+                }
+            ],
+            "short_url": "https://nyti.ms/3SoSa1S"
+        },
+        {
+            "section": "well",
+            "subsection": "move",
+            "title": "Be Here Now: How to Exercise Mindfully",
+            "abstract": "Bringing meditation into your movement can enrich your workout and help you feel clearheaded afterward.",
+            "url": "https://www.nytimes.com/2022/01/28/well/move/exercise-mindfulness.html",
+            "uri": "nyt://article/378b4de4-a153-5e43-858b-e21b4ef0cec0",
+            "byline": "By Jenny Marder",
+            "item_type": "Article",
+            "updated_date": "2022-02-09T23:36:05-05:00",
+            "created_date": "2022-01-28T13:55:35-05:00",
+            "published_date": "2022-01-28T13:55:35-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Meditation",
+                "Exercise",
+                "Yoga",
+                "Brain",
+                "Tightrope-Walking",
+                "Martial Arts"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/01/24/well/24meditation-in-movement10/merlin_200673108_3d038295-1ff2-4d91-8f0c-a4b173304736-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1635,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Sasha Arutyunova for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/01/24/well/24meditation-in-movement10/24meditation-in-movement10-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Sasha Arutyunova for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/01/24/well/24meditation-in-movement10/24meditation-in-movement10-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Sasha Arutyunova for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3s19a29"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "‘Selena Gomez: My Mind and Me’ Review: An Honest Portrait of Stardom",
+            "abstract": "Sincere and soul-baring, the documentary, directed by Alek Keshishian, captures Gomez’s challenges with mental illness, lupus and fame.",
+            "url": "https://www.nytimes.com/2022/11/02/movies/selena-gomez-my-mind-and-me-review.html",
+            "uri": "nyt://article/ac5023e6-cf6f-51f3-9f87-dfe081288bc5",
+            "byline": "By Chris Azzopardi",
+            "item_type": "Article",
+            "updated_date": "2022-11-04T09:22:53-04:00",
+            "created_date": "2022-11-02T21:00:06-04:00",
+            "published_date": "2022-11-02T21:00:06-04:00",
+            "material_type_facet": "",
+            "kicker": "Critic’s Pick",
+            "des_facet": [
+                "Documentary Films and Programs",
+                "Selena Gomez: My Mind and Me (Movie)",
+                "Actors and Actresses",
+                "Pop and Rock Music",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "Apple TV Plus"
+            ],
+            "per_facet": [
+                "Gomez, Selena",
+                "Keshishian, Alek (1964- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/arts/02selenagomez-review1/merlin_215618481_84082120-8878-4a67-accb-4c8740564d78-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In “Selena Gomez: My Mind and Me,” the singer is in the trustworthy hands of the veteran director Alek Keshishian.",
+                    "copyright": "Apple TV+"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/arts/02selenagomez-review1/02selenagomez-review1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In “Selena Gomez: My Mind and Me,” the singer is in the trustworthy hands of the veteran director Alek Keshishian.",
+                    "copyright": "Apple TV+"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/11/04/arts/02selenagomez-review1/02selenagomez-review1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In “Selena Gomez: My Mind and Me,” the singer is in the trustworthy hands of the veteran director Alek Keshishian.",
+                    "copyright": "Apple TV+"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DWjdwR"
+        },
+        {
+            "section": "crosswords",
+            "subsection": "",
+            "title": "Few Wordle Players Use Consistent Starting Words, but When They Do, It’s ADIEU",
+            "abstract": "What the data tells us about how people play the game.",
+            "url": "https://www.nytimes.com/2022/09/01/crosswords/wordle-starting-words-adieu.html",
+            "uri": "nyt://article/f2620fa1-b3df-5849-96cd-58d555181022",
+            "byline": "By Deb Amlen",
+            "item_type": "Article",
+            "updated_date": "2022-09-01T14:40:20-04:00",
+            "created_date": "2022-09-01T09:00:05-04:00",
+            "published_date": "2022-09-01T09:00:05-04:00",
+            "material_type_facet": "",
+            "kicker": "GAMEPLAY",
+            "des_facet": [
+                "Wordle (Puzzle)",
+                "Games"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/25/crosswords/wordle-top/wordle-top-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 683,
+                    "width": 1024,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wordle gives players six tries to guess the daily word. Only a small number of people go in with a plan.",
+                    "copyright": "Stefani Reynolds/Agence France-Presse, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/25/crosswords/wordle-top/wordle-top-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wordle gives players six tries to guess the daily word. Only a small number of people go in with a plan.",
+                    "copyright": "Stefani Reynolds/Agence France-Presse, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/25/crosswords/wordle-top/wordle-top-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Wordle gives players six tries to guess the daily word. Only a small number of people go in with a plan.",
+                    "copyright": "Stefani Reynolds/Agence France-Presse, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3q2W8kk"
+        }
+    ]
+}

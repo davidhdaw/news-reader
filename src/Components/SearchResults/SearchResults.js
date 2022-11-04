@@ -21,12 +21,12 @@ let {id} = useParams();
     return(
         <div className="detailedView">
             {loading && <h2>Loading...</h2>}
-            <h1>News Results for: {id}</h1>
+            <h1 className="resultsHeader">News Results for: {id}</h1>
             {console.log(searchResults)}
             {searchResults.map((story) => (
             <SearchCard story={story}/>
         ))}
-        {!loading && !searchResults[0] && <h2>Oops. No results found.</h2>}
+        {!loading && !searchResults[0] && <h2 className="errorMessage">Oops. No results found.</h2>}
         </div>
     )
 }
